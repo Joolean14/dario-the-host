@@ -65,6 +65,14 @@ h4 {
   border: none;
 }
 
+.card-body {
+  text-align: left;
+}
+
+.card-title {
+  text-align: center;
+}
+
 
 
 
