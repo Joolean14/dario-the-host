@@ -64,6 +64,10 @@
   color: #F2F2F0; */
  }
 
+ p {
+   text-align: justify;
+ }
+
  h4 {
    font-size: 1.3vw;
  }
